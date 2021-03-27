@@ -1,3 +1,4 @@
+var/log/auth
 var/log/auth.log
 var/log/durian.log/access.log
 var/log/authlog
