@@ -4,6 +4,9 @@ password1
 passw0rd
 passw0rd!
 Passw0rd!
+Passw@rd
+Passw@rd!
+passw@rd
 p@ssw0rd
 p@ssw0rd!
 P@ssw0rd
