@@ -1,6 +1,8 @@
 iloverockyou
 123456
 password
+p@ssw0rd
+p@ssw0rd!
 P@ssw0rd
 P@ssw0rd!
 123456789
