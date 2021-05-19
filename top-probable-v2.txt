@@ -1,7 +1,9 @@
 iloverockyou
-123456
 password
 password1
+passw0rd
+passw0rd!
+Passw0rd!
 p@ssw0rd
 p@ssw0rd!
 P@ssw0rd
@@ -12,6 +14,7 @@ p@55w0rd!
 P@55w0rd!
 123456789
 12345678
+123456
 12345
 qwerty
 123123
