@@ -1,3 +1,15 @@
+CFIDE
+littlesecrets-main
+gila
+email_list
+area4
+openemr
+fotocd
+dbadmin
+backend
+adminer
+underworld
+openemr
 !
 !_archives
 !_images
