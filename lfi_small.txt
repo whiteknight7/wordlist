@@ -27,5 +27,7 @@
 /var/log/nginx/error_log
 /etc/nginx.conf
 /etc/nginx/nginx.conf
+/etc/nginx/sites-available/default.conf
+/etc/nginx/sites-enabled/default.conf
 /etc/nginx/sites-available/default
 /etc/nginx/sites-enabled/default
