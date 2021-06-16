@@ -36,3 +36,4 @@
 /etc/apache2/.htpasswd
 /etc/apache2/.htaccess
 /etc/apache2/httpd.conf
+/api/users
