@@ -31,3 +31,8 @@
 /etc/nginx/sites-enabled/default.conf
 /etc/nginx/sites-available/default
 /etc/nginx/sites-enabled/default
+/etc/apache2/sites-enabled/000-default.conf
+/etc/apache2/apache2.conf
+/etc/apache2/.htpasswd
+/etc/apache2/.htaccess
+/etc/apache2/httpd.conf
