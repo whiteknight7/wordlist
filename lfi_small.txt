@@ -3,6 +3,7 @@
 /var/log/durian.log/access.log
 /var/log/authlog
 /var/www/.htpasswd
+/var/log/mail
 /var/mail/sam
 /opt/bitnami/apache2/logs/access_log%00
 /opt/bitnami/apache2/htdocs/webmail/
