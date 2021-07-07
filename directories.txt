@@ -38,7 +38,6 @@ openemr
 //META-INF/
 //test/users
 //WEB-INF/
-/?.jsp
 /\./index.html
 /__MACOSX/.bzr
 /__MACOSX/.git
@@ -1500,7 +1499,6 @@ openemr
 /index.html/..
 /index.jsp
 /index.php
-/index.php/123
 /index.php3
 /index.xhtml
 /index2.php
