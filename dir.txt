@@ -1,3 +1,4 @@
+ROBOTS.TXT
 bootstrap
 struts2-showcase
 struts2-showcase2
