@@ -1,4 +1,5 @@
 /home/username/.ssh/id_rsa
+/var/log/vsftpd.log
 /../../../../../../wp-config.php
 ../../../wp-config.php
 ../../../etc/passwd
