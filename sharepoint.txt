@@ -1,3 +1,4 @@
+/SitePages/Forms/AllPages.aspx
 _catalogs/users
 _catalogs/users/simple.aspx
 /_catalogs/masterpage/Forms/AllItems.aspx
