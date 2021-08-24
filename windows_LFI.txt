@@ -1,0 +1,66 @@
+/Users/Administrator/NTUser.dat
+/Documents and Settings/Administrator/NTUser.dat
+/apache/logs/access.log
+/apache/logs/error.log
+/apache/php/php.ini
+/boot.ini
+/inetpub/wwwroot/global.asa
+/MySQL/data/hostname.err
+/MySQL/data/mysql.err
+/MySQL/data/mysql.log
+/MySQL/my.cnf
+/MySQL/my.ini
+/php4/php.ini
+/php5/php.ini
+/php/php.ini
+/Program Files/Apache Group/Apache2/conf/httpd.conf
+/Program Files/Apache Group/Apache/conf/httpd.conf
+/Program Files/Apache Group/Apache/logs/access.log
+/Program Files/Apache Group/Apache/logs/error.log
+/Program Files/FileZilla Server/FileZilla Server.xml
+/Program Files/MySQL/data/hostname.err
+/Program Files/MySQL/data/mysql-bin.log
+/Program Files/MySQL/data/mysql.err
+/Program Files/MySQL/data/mysql.log
+/Program Files/MySQL/my.ini
+/Program Files/MySQL/my.cnf
+/Program Files/MySQL/MySQL Server 5.0/data/hostname.err
+/Program Files/MySQL/MySQL Server 5.0/data/mysql-bin.log 
+/Program Files/MySQL/MySQL Server 5.0/data/mysql.err 
+/Program Files/MySQL/MySQL Server 5.0/data/mysql.log 
+/Program Files/MySQL/MySQL Server 5.0/my.cnf
+/Program Files/MySQL/MySQL Server 5.0/my.ini
+/Program Files (x86)/Apache Group/Apache2/conf/httpd.conf 
+/Program Files (x86)/Apache Group/Apache/conf/httpd.conf 
+/Program Files (x86)/Apache Group/Apache/conf/access.log 
+/Program Files (x86)/Apache Group/Apache/conf/error.log 
+/Program Files (x86)/FileZilla Server/FileZilla Server.xml 
+/Program Files (x86)/xampp/apache/conf/httpd.conf 
+/WINDOWS/php.ini /WINDOWS/Repair/SAM 
+/Windows/repair/system /Windows/repair/software 
+/Windows/repair/security 
+/WINDOWS/System32/drivers/etc/hosts
+/Windows/win.ini 
+/WINNT/php.ini
+/WINNT/win.ini
+/xampp/apache/bin/php.ini
+/xampp/apache/logs/access.log 
+/xampp/apache/logs/error.log 
+/Windows/Panther/Unattend/Unattended.xml 
+/Windows/Panther/Unattended.xml 
+/Windows/debug/NetSetup.log 
+/Windows/system32/config/AppEvent.Evt 
+/Windows/system32/config/SecEvent.Evt 
+/Windows/system32/config/default.sav 
+/Windows/system32/config/security.sav 
+/Windows/system32/config/software.sav 
+/Windows/system32/config/system.sav 
+/Windows/system32/config/regback/default 
+/Windows/system32/config/regback/sam 
+/Windows/system32/config/regback/security 
+/Windows/system32/config/regback/system 
+/Windows/system32/config/regback/software
+/Program Files/MySQL/MySQL Server 5.1/my.ini 
+/Windows/System32/inetsrv/config/schema/ASPNET_schema.xml 
+/Windows/System32/inetsrv/config/applicationHost.config 
+/inetpub/logs/LogFiles/W3SVC1/u_ex[YYMMDD].log
